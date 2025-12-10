@@ -1,0 +1,401 @@
+2025-11-29 00:39:51 | /deposit/methods | HTTP 404 | 
+2025-11-29 00:40:11 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"hAVWyR07aaY6bk4vbiLi","reff_id":"TG251129A75C9E99","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019944462334719467530703A016304A241","qr_image":"https://atlantich2h.com/qr/hAVWyR07aaY6bk4vbiLi","status":"pendi
+2025-11-29 00:41:14 | /deposit/methods | HTTP 404 | 
+2025-11-29 00:41:35 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"OwdbqVmk40POPXWJVVdA","reff_id":"TG251129DAF66673","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019944465828866949130703A016304E158","qr_image":"https://atlantich2h.com/qr/OwdbqVmk40POPXWJVVdA","status":"pendi
+2025-11-29 09:15:05 | /deposit/methods | HTTP 404 | 
+2025-11-29 09:15:36 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"RuqpD5I9G6xguo2GHOY4","reff_id":"TG25112970266D71","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019945759424550871050703A0163045E76","qr_image":"https://atlantich2h.com/qr/RuqpD5I9G6xguo2GHOY4","status":"pendi
+2025-11-29 09:16:00 | /deposit/methods | HTTP 404 | 
+2025-11-29 09:27:52 | /deposit/methods | HTTP 404 | 
+2025-11-29 09:28:04 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"czEjHzifJ1rsAMELZqYx","reff_id":"TG251129306E3881","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019945790781461176330703A016304B56C","qr_image":"https://atlantich2h.com/qr/czEjHzifJ1rsAMELZqYx","status":"pendi
+2025-11-29 09:39:37 | /deposit/methods | HTTP 404 | 
+2025-11-29 09:39:51 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"kJgD31qVUvkJDj7bsSHX","reff_id":"TG25112961BFF512","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226610016ID.CO.SHOPEE.WWW01189360091800209988050208209988050303UME51440014ID.CO.QRIS.WWW0215ID20232405136140303UME52044814530336054072265.005802ID5905MITRA6012KOTA BANDUNG6105406146222051811795940742729555063042096","qr_image":"https://atlantich2h.com/qr/kJgD31qVUvkJDj7bsSHX","status":"pending","created_at":"2025-11-29 08:39:51","expired
+2025-11-29 08:52:50 | /deposit/methods | HTTP 404 | 
+2025-11-29 08:53:05 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"uEmmByziglPNKptCZIMS","reff_id":"TG251129F2576E62","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019945853722403348490703A01630434CF","qr_image":"https://atlantich2h.com/qr/uEmmByziglPNKptCZIMS","status":"pendi
+2025-11-29 08:53:10 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:19 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:24 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:29 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:34 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:39 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:44 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:49 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:54 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:53:59 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:04 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:09 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:19 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:24 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:29 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:34 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:39 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:44 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:49 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:54 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:54:59 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:55:04 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:55:09 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:55:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:56:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:56:40 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:56:43 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:56:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:56:51 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:56:57 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:02 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:07 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:57:52 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:58:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:58:40 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:58:41 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:58:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:58:52 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:58:57 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:02 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:07 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 08:59:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:00:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:01:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:02:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:30 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:34 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:35 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:40 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:45 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:50 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:03:55 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:00 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:05 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:08 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:13 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:28 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:33 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:38 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:43 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:48 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:53 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:04:58 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:05:03 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:05:08 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:05:13 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:05:18 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:05:23 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:06:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:07:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:08:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:02 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:02 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:08 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:29 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:33 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:09:55 | /deposit/methods | HTTP 404 | 
+2025-11-29 09:10:11 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"4mG1BxnJabe6xLd6XFnm","reff_id":"TG25112916DEC451","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019945896752041164810703A0163043F21","qr_image":"https://atlantich2h.com/qr/4mG1BxnJabe6xLd6XFnm","status":"pendi
+2025-11-29 09:10:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:21 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:26 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:31 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:36 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:41 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:51 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:10:56 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:01 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:07 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:11 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:21 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:26 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:31 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:36 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:11:41 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:12:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:12:59 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:01 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:04 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:09 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:13 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:18 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:23 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:28 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:34 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:38 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:43 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:48 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:53 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:13:58 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:14:03 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:14:15 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:15:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:16:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:17:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:18:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:19:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:20:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:21:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:22:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:23:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:24:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:28 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:28 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:33 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:41 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:46 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:51 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:25:56 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:26:01 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:26:06 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:26:11 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:26:16 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:26:21 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:26:47 | /deposit/methods | HTTP 404 | 
+2025-11-29 09:27:00 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"5JtjwnSL56hMr0V1QO4v","reff_id":"TG2511292821A692","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019945939080558223370703A016304B50E","qr_image":"https://atlantich2h.com/qr/5JtjwnSL56hMr0V1QO4v","status":"pendi
+2025-11-29 09:27:01 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:05 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:11 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:15 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:20 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:25 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:30 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 09:27:35 | /transaksi/create | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 17:57:24 | /deposit/methods | HTTP 404 | 
+2025-11-29 17:57:37 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"G38fkLPFHhROQM0cAFiW","reff_id":"TG25112902809C21","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019947224111098142730703A01630468F0","qr_image":"https://atlantich2h.com/qr/G38fkLPFHhROQM0cAFiW","status":"pendi
+2025-11-29 17:57:39 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 17:57:43 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 17:57:48 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 17:57:53 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 17:57:58 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-29 17:58:02 | /transaksi/create | HTTP 200 | {"status":true,"message":"Transaksi diproses!","data":{"id":"3RVFXvbznuczniuxy18z","reff_id":"TG25112902809C21","layanan":"MOBILELEGEND - 3 Diamond","code":"ML3","target":"137943771|2698","price":"1004","sn":null,"status":"pending","created_at":"2025-11-29 17:58:02"},"code":200}
+2025-11-29 18:15:18 | /deposit/methods | HTTP 404 | 
+2025-11-29 18:15:21 | /transaksi/create | HTTP 200 | {"status":true,"message":"Transaksi diproses!","data":{"id":"ZZ3uCaE3RwFKVxNJ7hxi","reff_id":"TG2511299438AC80","layanan":"MOBILELEGEND - 3 Diamond","code":"ML3","target":"137943771|2698","price":"1004","sn":null,"status":"pending","created_at":"2025-11-29 18:15:21"},"code":200}
+2025-11-30 05:43:32 | /deposit/methods | HTTP 404 | 
+2025-11-30 05:43:44 | /deposit/create | HTTP 500 | 
+2025-11-30 06:09:18 | /deposit/methods | HTTP 404 | 
+2025-11-30 06:10:21 | /deposit/create | HTTP 500 | 
+2025-11-30 06:10:43 | /deposit/methods | HTTP 404 | 
+2025-11-30 06:10:48 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"l4OVrfYk1T8qPPn2eikE","reff_id":"TG251130762EC273","nominal":2265,"tambahan":0,"fee":216,"get_balance":2049,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540422655802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019949069228669665290703A01630481EC","qr_image":"https://atlantich2h.com/qr/l4OVrfYk1T8qPPn2eikE","status":"pendi
+2025-11-30 06:10:50 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:10:54 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:10:59 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:04 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:09 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:19 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:24 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:29 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:34 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:39 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:44 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:49 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:54 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:11:59 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:12:04 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:12:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:12:46 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:12:49 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:13:14 | /deposit/methods | HTTP 404 | 
+2025-11-30 06:20:27 | /deposit/methods | HTTP 404 | 
+2025-11-30 06:20:32 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"CkHQVdQXGECFQMG2AhVR","reff_id":"TG251130F1A7C636","nominal":9604,"tambahan":0,"fee":267,"get_balance":9337,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540496045802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019949093715246653450703A016304F482","qr_image":"https://atlantich2h.com/qr/CkHQVdQXGECFQMG2AhVR","status":"pendi
+2025-11-30 06:20:34 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:20:38 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:20:43 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:20:48 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:20:53 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:20:58 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:03 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:08 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:13 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:18 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:23 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:28 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:21:33 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:22:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:23:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:24:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:25:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:26:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:27:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:28:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:29:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:30:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:31:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:32:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:33:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:34:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:35:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:36:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:37:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:38:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:39:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:40:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:41:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:42:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:43:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:44:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:45:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:46:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:46:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:46:38 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 06:50:58 | /transaksi/create | HTTP 200 | {"status":true,"message":"Transaksi diproses!","data":{"id":"60pduMkaNSpT2GzFiRjE","reff_id":"TG251130762EC273","layanan":"MOBILELEGEND - 3 Diamond","code":"ML3","target":"137943771|2698","price":"1004","sn":null,"status":"pending","created_at":"2025-11-30 06:50:58"},"code":200}
+2025-11-30 07:00:40 | /transaksi/create | HTTP 403 | {"status":false,"message":"Saldo anda tidak cukup!","code":403}
+2025-11-30 08:10:47 | /deposit/methods | HTTP 404 | 
+2025-11-30 08:11:30 | /deposit/create | HTTP 500 | 
+2025-11-30 09:42:16 | /deposit/methods | HTTP 404 | 
+2025-11-30 09:49:45 | /deposit/methods | HTTP 404 | 
+2025-11-30 09:50:29 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"CakLMJggUrywvLB65JkS","reff_id":"TG25113043A92B32","nominal":4174,"tambahan":0,"fee":229,"get_balance":3945,"qr_string":"00020101021226740025ID.CO.BANKNEOCOMMERCE.WWW011893600490800002920102120005601369350303UBE51550025ID.CO.BANKNEOCOMMERCE.WWW0215ID20254166095060303UBE520448165303360540441745802ID5925Atlantic Teknologi Server6007BANDUNG6105406146233012230019949622075412520970703A016304BF96","qr_image":"https://atlantich2h.com/qr/CakLMJggUrywvLB65JkS","status":"pendi
+2025-11-30 09:54:46 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:54:50 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:54:55 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:00 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:05 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:10 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:15 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:20 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:25 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:30 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:35 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:40 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:45 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:50 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:55:55 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:56:00 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:56:05 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:56:10 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:56:15 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 09:56:45 | /deposit/methods | HTTP 404 | 
+2025-11-30 09:57:11 | /deposit/create | HTTP 500 | 
+2025-11-30 09:58:46 | /deposit/methods | HTTP 404 | 
+2025-11-30 10:03:16 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"OnF2IfqCZ1UdS6AnozMW","reff_id":"TG25113031D7B468","nominal":25514,"tambahan":0,"fee":536,"get_balance":24978,"url":"https://app.shopeepay.co.id/u/pay_checkout?type=start&mid=10833147&target_app=shopeepay&_apprl_=%2Frn%2F%40shopee-rn%2Fshopeepay%2FTRANSFER_PAYMENT_SELECTION_CSCANB%3F__anim__%3D2%26entryRefer%3DJumpApp%26mid%3D10833147%26order_key%3DDKUJcqf7tRK_Q_hC86V7kZodMcyV1nb6Udx5fgX03ueXbFtgzRTF_KHS0OuPMRt93xBfX6sgBBkrug%26order_sn%3D120055462306736873%26referre
+2025-11-30 10:03:18 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:52 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:03:57 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:02 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:07 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:04:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:05:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:06:14 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:06:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:06:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:06:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:06:52 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:06:57 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:02 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:07 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:12 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:27 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:07:52 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:08:29 | /deposit/methods | HTTP 404 | 
+2025-11-30 10:08:43 | /deposit/create | HTTP 403 | {"status":false,"message":"Metode deposit tidak valid / non aktif","code":403}
+2025-11-30 10:20:44 | /deposit/methods | HTTP 404 | 
+2025-11-30 10:21:40 | /deposit/methods | HTTP 404 | 
+2025-11-30 10:21:56 | /deposit/create | HTTP 400 | {"status":false,"message":"Metode deposit OVO nomor telepon wajib di isi","code":400}
+2025-11-30 10:25:11 | /deposit/methods | HTTP 404 | 
+2025-11-30 10:25:32 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"UzGii6wtgyPbMiJGDArV","reff_id":"TG251130B0B77440","nominal":16122,"tambahan":0,"fee":266,"get_balance":15856,"url":"https://linkaja.id/applink/payment?data=j7OzFrWSFRT5ZiJCwp2E9UFrFEgZE8HhHQMrYydszIAHUha-2lEUl5H_RvtA7ml1SjYwKUD-1mGZcxpJ79x4zAldvNTGp-X0ulUPbn2APZwNyl6xGy0iHdKUtmEEl4BiwEqEfOOS6C8dD4Uau2OTiXRpCmg0qLqde1QaX9JvWWLUEsGCVtW8xQLGRwR7xP_wA_qwdLcS1vXFJl4b6KbLw2M4tsVY-Dphnc8qDR0cLwDFy5xbVboiW2xG0t1zCTf1AmAW_-JQB5suBjx3dn9NyMj99meO_xO17Sy7MuOo4_GuQ_ylkrlUkrJRzm
+2025-11-30 10:25:33 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:25:37 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:25:43 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:25:48 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:25:53 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:25:58 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:26:03 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:26:08 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:26:13 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:26:17 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:26:22 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:26:29 | /deposit/methods | HTTP 404 | 
+2025-11-30 10:30:40 | /transaksi/create | HTTP 403 | {"status":false,"message":"Saldo anda tidak cukup!","code":403}
+2025-11-30 10:55:25 | /deposit/create | HTTP 200 | {"status":true,"data":{"id":"tjNDP4YGHGCCsoLF9nBi","reff_id":"TG2511306E12E273","nominal":13164,"tambahan":0,"fee":276,"get_balance":12888,"url":"https://app.shopeepay.co.id/u/pay_checkout?type=start&mid=10833147&target_app=shopeepay&_apprl_=%2Frn%2F%40shopee-rn%2Fshopeepay%2FTRANSFER_PAYMENT_SELECTION_CSCANB%3F__anim__%3D2%26entryRefer%3DJumpApp%26mid%3D10833147%26order_key%3Db0fDerKUopGUzXcOe39ocVD9YD2Z5S1Azw898VKD8yCfBdBd0ey87WBNZsz0wcYvwoFHjJiY5ybMMg%26order_sn%3D137769023298564322%26referre
+2025-11-30 10:55:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:55:32 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:55:36 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:55:42 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:55:47 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 10:55:51 | /deposit/status | HTTP 400 | {"status":false,"message":"Invalid request body","code":400}
+2025-11-30 11:03:22 | /transaksi/create | HTTP 503 | {"status":false,"message":"Produk tidak valid","code":503}
+2025-11-30 11:55:32 | /transaksi/create | HTTP 503 | {"status":false,"message":"Produk tidak valid","code":503}
+2025-12-02 22:20:27 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-02 22:23:42 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-02 22:25:17 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-02 22:25:21 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-02 22:25:21 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-02 22:26:41 | /transaksi/create | HTTP 202 | {"status":true,"message":"Transaksi diproses","data":{"id":"2rZu6lErXQGPXD2giTJr","reff_id":"TG251202F7AB4028","layanan":"Netflix Semi Privat 1 Bulan","code":"NTSM1","target":"Lenovo-bone","price":"32100","sn":null,"status":"pending","created_at":"2025-12-02 22:26:39"},"code":202}
+2025-12-03 22:21:21 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-03 22:21:24 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-03 22:22:23 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-03 22:22:31 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-03 22:22:31 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-03 22:22:36 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 07:00:31 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 07:05:21 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 08:45:04 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:04:47 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:06:53 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:06:57 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:07:56 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:08:01 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:08:04 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:08:57 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:10:50 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:25:35 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:25:37 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:25:50 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:25:55 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 11:26:01 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 12:01:09 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:08:28 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:08:47 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:08:51 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:09:39 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:09:44 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:09:45 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:09:52 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 14:09:53 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-04 15:10:53 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-05 15:17:16 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-05 15:21:29 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro
+2025-12-05 19:42:43 | /layanan/price_list | HTTP 200 | {"status":true,"data":[{"code":"DIY1","name":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","provider":"TELKOMSEL","brand_status":"1","price":"8075","note":"Telkomsel Data 1.5 GB 3 Hari (Jawa Tengah - DIY)","status":"available","img_url":"https://s3.atlantic-pedia.co.id/1755422936_e1aeab2928c00a60d370.jpeg"},{"code":"DIY25","name":"Telkomsel Data 2.5 GB 5 Hari (Jawa Tengah - DIY)","category":"Data Internet","type":"Jawa Tengah - DIY","pro

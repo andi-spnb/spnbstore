@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flowchart Line Follower Robot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .flowchart {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .box {
+            border: 2px solid #333;
+            padding: 15px 25px;
+            text-align: center;
+            border-radius: 5px;
+            min-width: 200px;
+            font-weight: bold;
+            position: relative;
+            background: white;
+        }
+        .box.start {
+            background-color: #90EE90;
+            border-radius: 20px;
+        }
+        .box.process {
+            background-color: #87CEEB;
+        }
+        .box.decision {
+            background-color: #FFD700;
+            transform: rotate(45deg);
+            width: 150px;
+            height: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            min-width: auto;
+        }
+        .box.decision span {
+            transform: rotate(-45deg);
+            text-align: center;
+        }
+        .box.action {
+            background-color: #FFB6C1;
+        }
+        .box.stop {
+            background-color: #FF6B6B;
+            color: white;
+            border-radius: 20px;
+        }
+        .arrow {
+            width: 2px;
+            height: 25px;
+            background-color: #333;
+            margin: 5px 0;
+            position: relative;
+        }
+        .arrow::after {
+            content: '';
+            position: absolute;
+            bottom: -8px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 8px;
+            height: 8px;
+            border-right: 2px solid #333;
+            border-bottom: 2px solid #333;
+            transform: translateX(-50%) rotate(-45deg);
+        }
+        .horizontal-branch {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin: 15px 0;
+            width: 100%;
+        }
+        .branch {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .branch-label {
+            font-weight: bold;
+            color: #666;
+            font-size: 12px;
+        }
+        .connector-line {
+            width: 2px;
+            height: 20px;
+            background-color: #333;
+            margin: 5px 0;
+        }
+        .horizontal-line {
+            height: 2px;
+            background-color: #333;
+            margin: 0 10px;
+        }
+        .legend {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 8px;
+        }
+        .legend-box {
+            width: 30px;
+            height: 30px;
+            border: 2px solid #333;
+            border-radius: 3px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .legend-box.start {
+            background-color: #90EE90;
+            border-radius: 15px;
+        }
+        .legend-box.decision {
+            background-color: #FFD700;
+            transform: rotate(45deg);
+        }
+        .legend-box.action {
+            background-color: #FFB6C1;
+        }
+        .legend-box.stop {
+            background-color: #FF6B6B;
+            border-radius: 15px;
+        }
+        .legend-box.process {
+            background-color: #87CEEB;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>FLOWCHART LINE FOLLOWER ROBOT</h1>
+        
+        <div class="flowchart">
+            <!-- START -->
+            <div class="box start">START</div>
+            <div class="arrow"></div>
+            
+            <!-- SETUP -->
+            <div class="box process">SETUP<br>(Inisialisasi Pin)</div>
+            <div class="arrow"></div>
+            
+            <!-- LOOP -->
+            <div class="box process">LOOP UTAMA</div>
+            <div class="arrow"></div>
+            
+            <!-- BACA SENSOR -->
+            <div class="box process">BACA 5 SENSOR<br>(s1, s2, s3, s4, s5)</div>
+            <div class="arrow"></div>
+            
+            <!-- KEPUTUSAN 1 -->
+            <div class="box decision"><span>s1=H, s2=H<br>s3=L, s4=H<br>s5=H?</span></div>
+            <div style="height: 30px; position: relative;">
+                <div style="position: absolute; width: 2px; height: 30px; left: 50%; background: #333;"></div>
+                <div style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); font-size: 12px; font-weight: bold; background: white; padding: 2px 5px;">YA</div>
+            </div>
+            
+            <div class="box action">MAJU LURUS<br>(150, 150)</div>
+            <div class="connector-line"></div>
+            
+            <div style="width: 100%; border-top: 2px solid #333; margin: 10px 0;"></div>
+            
+            <!-- KEPUTUSAN 2 -->
+            <div class="box decision"><span>s2=L &&<br>s3=L?</span></div>
+            <div style="height: 30px; position: relative;">
+                <div style="position: absolute; width: 2px; height: 30px; left: 50%; background: #333;"></div>
+                <div style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); font-size: 12px; font-weight: bold; background: white; padding: 2px 5px;">YA</div>
+            </div>
+            
+            <div class="box action">BELOK KIRI RINGAN<br>(100, 150)</div>
+            <div class="connector-line"></div>
+            
+            <div style="width: 100%; border-top: 2px solid #333; margin: 10px 0;"></div>
+            
+            <!-- KEPUTUSAN 3 -->
+            <div class="box decision"><span>s3=L &&<br>s4=L?</span></div>
+            <div style="height: 30px; position: relative;">
+                <div style="position: absolute; width: 2px; height: 30px; left: 50%; background: #333;"></div>
+                <div style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); font-size: 12px; font-weight: bold; background: white; padding: 2px 5px;">YA</div>
+            </div>
+            
+            <div class="box action">BELOK KANAN RINGAN<br>(150, 100)</div>
+            <div class="connector-line"></div>
+            
+            <div style="width: 100%; border-top: 2px solid #333; margin: 10px 0;"></div>
+            
+            <!-- KEPUTUSAN 4 -->
+            <div class="box decision"><span>s1=L ||<br>s2=L?</span></div>
+            <div style="height: 30px; position: relative;">
+                <div style="position: absolute; width: 2px; height: 30px; left: 50%; background: #333;"></div>
+                <div style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); font-size: 12px; font-weight: bold; background: white; padding: 2px 5px;">YA</div>
+            </div>
+            
+            <div class="box action">BELOK KIRI TAJAM<br>(0, 200)</div>
+            <div class="connector-line"></div>
+            
+            <div style="width: 100%; border-top: 2px solid #333; margin: 10px 0;"></div>
+            
+            <!-- KEPUTUSAN 5 -->
+            <div class="box decision"><span>s4=L ||<br>s5=L?</span></div>
+            <div style="height: 30px; position: relative;">
+                <div style="position: absolute; width: 2px; height: 30px; left: 50%; background: #333;"></div>
+                <div style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); font-size: 12px; font-weight: bold; background: white; padding: 2px 5px;">YA</div>
+            </div>
+            
+            <div class="box action">BELOK KANAN TAJAM<br>(200, 0)</div>
+            <div class="connector-line"></div>
+            
+            <div style="width: 100%; border-top: 2px solid #333; margin: 10px 0;"></div>
+            
+            <!-- TIDAK ADA KONDISI -->
+            <div class="box stop">MOTOR BERHENTI<br>(GARIS HILANG)</div>
+            <div style="height: 30px; position: relative;">
+                <div style="position: absolute; width: 2px; height: 30px; left: 50%; background: #333;"></div>
+            </div>
+            
+            <!-- KEMBALI KE LOOP -->
+            <div class="box process">KEMBALI KE LOOP</div>
+        </div>
+
+        <!-- LEGEND -->
+        <div class="legend">
+            <h3>KETERANGAN:</h3>
+            <div class="legend-item">
+                <div class="legend-box start"></div>
+                <span><strong>Oval Hijau:</strong> Start / End</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box process"></div>
+                <span><strong>Persegi Biru:</strong> Proses</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box decision"></div>
+                <span><strong>Belah Ketupat Kuning:</strong> Keputusan / Kondisi</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box action"></div>
+                <span><strong>Persegi Pink:</strong> Aksi Motor</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box stop"></div>
+                <span><strong>Oval Merah:</strong> Stop / Berhenti</span>
+            </div>
+            <hr>
+            <p><strong>H = HIGH (1)</strong> | <strong>L = LOW (0)</strong></p>
+            <p><strong>Format Motor:</strong> (Kecepatan_Kiri, Kecepatan_Kanan)</p>
+        </div>
+    </div>
+</body>
+</html>
